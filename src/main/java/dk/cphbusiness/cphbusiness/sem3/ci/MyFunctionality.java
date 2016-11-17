@@ -16,7 +16,9 @@ public class MyFunctionality {
    * @return 10. Maybe.
    */
   public static int giveMeTen() {
+      System.out.println("blablabla");
     return 5;
+      
   }
 
 }
