@@ -17,7 +17,7 @@ public class MyFunctionality {
    */
   public static int giveMeTen() {
       System.out.println("blablabla");
-    return 5;
+    return 10;
       
   }
 
